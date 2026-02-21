@@ -89,11 +89,18 @@ Trend visualization comparing normal vs current behavior
 Context-aware guidance messages designed to be motivational and practical
 
 🔍 How This Project Differs from Existing Solutions
-Existing Tools	This System
-Fixed thresholds	Personalized baselines
-Stress labels	Behavior-based deviation
-Intrusive alerts	User-controlled insights
-Generic advice	Context-aware guidance
+
+## 🔍 Comparison with Existing Solutions
+
+| Aspect | Existing Solutions | Proposed System |
+|------|-------------------|----------------|
+| Analysis Method | Fixed rules and thresholds | Personalized behavior-based analysis |
+| Stress Detection | Predefined stress labels | Deviation from individual baseline |
+| Adaptability | Same standard for all users | Learns user-specific patterns |
+| User Interaction | Frequent notifications and alerts | On-demand, user-controlled insights |
+| Ethical Design | May cause over-diagnosis | Non-medical and privacy-focused |
+| Guidance Type | Generic recommendations | Context-aware practical guidance |
+
 🚀 Applications
 
 Student workload management
